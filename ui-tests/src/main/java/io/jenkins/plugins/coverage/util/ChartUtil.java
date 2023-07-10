@@ -4,7 +4,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.WebElement;
 
-import com.gargoylesoftware.htmlunit.ScriptResult;
+import org.htmlunit.ScriptResult;
 
 import org.jenkinsci.test.acceptance.po.PageObject;
 
